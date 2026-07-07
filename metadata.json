@@ -1,0 +1,6 @@
+{
+  "name": "AI Product Mockup Studio",
+  "description": "An interactive, photorealistic product mockup generator. Upload your brand logo and instantly preview it on mugs, t-shirts, hoodies, or design custom scenes using Gemini image synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
